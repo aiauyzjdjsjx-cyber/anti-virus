@@ -1,0 +1,5 @@
+  /print start cmd
+@echo off
+start
+tools
+/crash
